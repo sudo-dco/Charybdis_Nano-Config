@@ -3,11 +3,12 @@
 
 #define DEF 0
 #define NAV 1
-#define SMN 2
-#define FUN 3
-#define MOU 4
-#define SCR 5
-#define SNI 6
+#define FN 2
+#define NUM 3
+#define SYS 4
+#define MOUSE 5
+#define SCR 6
+#define SNI 7
 
 / {
   split_inputs {
